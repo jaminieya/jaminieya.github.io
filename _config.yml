@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Junhee Lim Gallery"
+title                    : "Junhee Lim"
 title_separator          : "-"
 name                     : &name "Junhee Lim"
 description              : &description "personal description"
