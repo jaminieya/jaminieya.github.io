@@ -1,0 +1,12 @@
+{
+  "name": "Jekyll",
+  "image": "mcr.microsoft.com/devcontainers/jekyll:latest",
+  "customizations": {
+    "vscode": {
+      "extensions": ["ms-azuretools.vscode-docker"]
+    }
+  },
+  "forwardPorts": [4000],
+  "postCreateCommand": "bundle install",
+  "postStartCommand": "bundle exec jekyll serve"
+}

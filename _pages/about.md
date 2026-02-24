@@ -15,18 +15,18 @@ I'm interested in robot learning, especially in the areas of generalizable manip
 
 ## Education {#education}
 
-<div class="content-block content-block--education">
-  <img src="/images/purdue-logo.jpg" alt="Purdue University" class="content-block__thumb" />
-  <div class="content-block__text">
+<div style="display: flex; align-items: flex-start; gap: 1.5rem; margin-bottom: 1.5rem;">
+  <img src="/images/purdue-logo.jpg" alt="Purdue University" style="width: 80px; height: 80px; object-fit: contain; border-radius: 4px; border: 1px solid #ddd; flex-shrink: 0;" />
+  <div>
     <strong>Purdue University</strong>, West Lafayette, IN, USA<br>
     Master of Computer Science<br>
     01. 2026 - 05. 2027 (expected)
   </div>
 </div>
 
-<div class="content-block content-block--education">
-  <img src="/images/purdue-logo.jpg" alt="Purdue University" class="content-block__thumb" />
-  <div class="content-block__text">
+<div style="display: flex; align-items: flex-start; gap: 1.5rem;">
+  <img src="/images/purdue-logo.jpg" alt="Purdue University" style="width: 80px; height: 80px; object-fit: contain; border-radius: 4px; border: 1px solid #ddd; flex-shrink: 0;" />
+  <div>
     <strong>Purdue University</strong>, West Lafayette, IN, USA<br>
     Bachelor of Computer Science<br>
     08. 2021 - 12.2025
@@ -35,11 +35,11 @@ I'm interested in robot learning, especially in the areas of generalizable manip
 
 ## Research {#research}
 
-<div class="content-block content-block--research">
-  <a href="https://arxiv.org/pdf/2602.18638" class="content-block__thumb-link">
-    <img src="/images/tactile-sensing-thumbnail.jpg" alt="Paper thumbnail" class="content-block__thumb content-block__thumb--large" />
+<div style="display: flex; align-items: flex-start; gap: 1.5rem; margin-bottom: 1rem;">
+  <a href="https://arxiv.org/pdf/2602.18638" style="flex-shrink: 0;">
+    <img src="/images/tactile-sensing-thumbnail.jpg" alt="Paper thumbnail" style="width: 200px; height: auto; border-radius: 4px; border: 1px solid #ddd;" />
   </a>
-  <div class="content-block__text">
+  <div>
     <strong><a href="https://arxiv.org/pdf/2602.18638">Soft Surfaced Vision-Based Tactile Sensing for Bipedal Robot Applications</a></strong><br>
     Jaeeun Kim, Junhee Lim, Yu She<br>
     <em>arXiv preprint arXiv:2602.18638</em>
