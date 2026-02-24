@@ -1,4 +1,61 @@
-/* Custom overrides: Always show all nav items on top (no menu button) */
+/* ==========================================================================
+   CONTENT BLOCKS (Education, Research)
+   ========================================================================== */
+
+.content-block {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.5rem;
+  margin-bottom: 1.5rem;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+
+  &__thumb {
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
+    border-radius: 4px;
+    border: 1px solid var(--global-border-color);
+    flex-shrink: 0;
+
+    &--large {
+      width: 200px;
+      height: auto;
+    }
+  }
+
+  &__thumb-link {
+    flex-shrink: 0;
+  }
+
+  &__text {
+    flex: 1;
+    min-width: 0;
+  }
+
+  /* Mobile: stack vertically, full-width images */
+  @media (max-width: 768px) {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1rem;
+
+    &__thumb {
+      width: 64px;
+      height: 64px;
+
+      &--large {
+        width: 100%;
+        max-width: 280px;
+      }
+    }
+  }
+}
+
+/* ==========================================================================
+   NAVIGATION: Always show all nav items on top (no menu button)
+   ========================================================================== */
 
 .greedy-nav {
   display: flex;
@@ -43,6 +100,58 @@
 
     &.hidden {
       display: none !important;
+    }
+  }
+
+  /* Mobile: smaller nav items, better touch targets */
+  @media (max-width: 768px) {
+    gap: 0.5rem;
+    padding: 0.25rem 0;
+
+    a {
+      padding: 0.5rem 0.75rem;
+      font-size: 0.9rem;
+    }
+  }
+}
+
+/* ==========================================================================
+   MOBILE OPTIMIZATIONS (Chrome, Safari, etc.)
+   ========================================================================== */
+
+@media (max-width: 768px) {
+  /* Prevent horizontal overflow */
+  html, body {
+    overflow-x: hidden;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  /* Safe area for notched devices */
+  .masthead {
+    padding-left: env(safe-area-inset-left);
+    padding-right: env(safe-area-inset-right);
+  }
+
+  #main {
+    padding-left: max(1em, env(safe-area-inset-left));
+    padding-right: max(1em, env(safe-area-inset-right));
+  }
+
+  .page__content {
+    /* Improve readability on small screens */
+    font-size: 1rem;
+    line-height: 1.6;
+
+    h2 {
+      font-size: 1.25rem;
+      padding-bottom: 0.5em;
+    }
+  }
+
+  /* Sidebar: ensure profile fits on narrow screens */
+  .sidebar {
+    .author__avatar img {
+      max-width: 120px;
     }
   }
 }

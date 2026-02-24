@@ -162,6 +162,7 @@ exclude:
   - talkmap
   - scripts
   - files
+  - .devcontainer
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
