@@ -14,7 +14,7 @@ I'm interested in robot learning, especially in the areas of generalizable manip
 Research
 ======
 ---
-Feet It: Vision-Based Tactile Sensing for Biped Robot Stabilization
+[Soft Surfaced Vision-Based Tactile Sensing for Bipedal Robot Applications](https://arxiv.org/pdf/2602.18638)
 Jaeeun Kim, Junhee Lim, Yu She
 
 
