@@ -46,10 +46,6 @@ I'm interested in robot learning, especially in the areas of generalizable manip
   </div>
 </div>
 
-## Project {#project}
-
-**NSF USDA NIFA Assistive Robotic System of Poultry Processing**
-
 ## Updates {#updates}
 
 * [10/2025] I joined the Cognitive Robot Autonomy & Learning (CoRAL) Lab as a Graduate Research Assistant.
