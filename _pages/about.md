@@ -15,13 +15,23 @@ I'm interested in robot learning, especially in the areas of generalizable manip
 
 ## Education {#education}
 
-* **Purdue University**, West Lafayette, IN, USA  
-  Master of Computer Science  
-  Degree expected in May 2027
+<div style="display: flex; align-items: flex-start; gap: 1.5rem; margin-bottom: 1.5rem;">
+  <img src="/images/purdue-logo.jpg" alt="Purdue University" style="width: 80px; height: 80px; object-fit: contain; border-radius: 4px; border: 1px solid #ddd; flex-shrink: 0;" />
+  <div>
+    <strong>Purdue University</strong>, West Lafayette, IN, USA<br>
+    Master of Computer Science<br>
+    Degree expected in May 2027
+  </div>
+</div>
 
-* **Purdue University**, West Lafayette, IN, USA  
-  Bachelor of Computer Science  
-  Degree expected in Dec 2025
+<div style="display: flex; align-items: flex-start; gap: 1.5rem;">
+  <img src="/images/purdue-logo.jpg" alt="Purdue University" style="width: 80px; height: 80px; object-fit: contain; border-radius: 4px; border: 1px solid #ddd; flex-shrink: 0;" />
+  <div>
+    <strong>Purdue University</strong>, West Lafayette, IN, USA<br>
+    Bachelor of Computer Science<br>
+    Degree expected in Dec 2025
+  </div>
+</div>
 
 ## Research {#research}
 
