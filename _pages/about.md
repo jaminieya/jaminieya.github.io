@@ -13,11 +13,6 @@ I am an M.S. student at the Department of Computer Science at Purdue University,
 
 I'm interested in robot learning, especially in the areas of generalizable manipulation policies and robot tool use. Eventually, I want to push the frontier of what AI can accomplish in the physical world.
 
-## Updates {#updates}
-
-* [10/2025] I joined the Cognitive Robot Autonomy & Learning (CoRAL) Lab as a Graduate Research Assistant.
-* [01/2025] I joined the Mechanisms and Robotic Systems Lab (MARS) as an Undergraduate Research Assistant.
-
 ## Education {#education}
 
 * **Purdue University**, West Lafayette, IN, USA  
@@ -30,12 +25,22 @@ I'm interested in robot learning, especially in the areas of generalizable manip
 
 ## Research {#research}
 
-**[Soft Surfaced Vision-Based Tactile Sensing for Bipedal Robot Applications](https://arxiv.org/pdf/2602.18638)**  
-Jaeeun Kim, Junhee Lim, Yu She  
-*arXiv preprint arXiv:2602.18638*
-
-A soft-surfaced, vision-based tactile foot sensor that endows a bipedal robot with dense contact perception for balance control and terrain awareness.
+<div style="display: flex; align-items: flex-start; gap: 1.5rem; margin-bottom: 1rem;">
+  <a href="https://arxiv.org/pdf/2602.18638" style="flex-shrink: 0;">
+    <img src="/images/tactile-sensing-thumbnail.jpg" alt="Paper thumbnail" style="width: 200px; height: auto; border-radius: 4px; border: 1px solid #ddd;" />
+  </a>
+  <div>
+    <strong><a href="https://arxiv.org/pdf/2602.18638">Soft Surfaced Vision-Based Tactile Sensing for Bipedal Robot Applications</a></strong><br>
+    Jaeeun Kim, Junhee Lim, Yu She<br>
+    <em>arXiv preprint arXiv:2602.18638</em>
+  </div>
+</div>
 
 ## Project {#project}
 
 **NSF USDA NIFA Assistive Robotic System of Poultry Processing**
+
+## Updates {#updates}
+
+* [10/2025] I joined the Cognitive Robot Autonomy & Learning (CoRAL) Lab as a Graduate Research Assistant.
+* [01/2025] I joined the Mechanisms and Robotic Systems Lab (MARS) as an Undergraduate Research Assistant.

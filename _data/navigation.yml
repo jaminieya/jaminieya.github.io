@@ -2,9 +2,6 @@
 # Each link scrolls to the corresponding section on the homepage.
 
 main:
-  - title: "Updates"
-    url: /#updates
-
   - title: "Education"
     url: /#education
 
@@ -13,3 +10,6 @@ main:
 
   - title: "Project"
     url: /#project
+
+  - title: "Updates"
+    url: /#updates
