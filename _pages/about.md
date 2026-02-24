@@ -18,6 +18,16 @@ I'm interested in robot learning, especially in the areas of generalizable manip
 * [10/2025] I joined the Cognitive Robot Autonomy & Learning (CoRAL) Lab as a Graduate Research Assistant.
 * [01/2025] I joined the Mechanisms and Robotic Systems Lab (MARS) as an Undergraduate Research Assistant.
 
+## Education {#education}
+
+* **Purdue University**, West Lafayette, IN, USA  
+  Master of Computer Science  
+  Degree expected in May 2027
+
+* **Purdue University**, West Lafayette, IN, USA  
+  Bachelor of Computer Science  
+  Degree expected in Dec 2025
+
 ## Research {#research}
 
 **[Soft Surfaced Vision-Based Tactile Sensing for Bipedal Robot Applications](https://arxiv.org/pdf/2602.18638)**  
@@ -29,13 +39,3 @@ A soft-surfaced, vision-based tactile foot sensor that endows a bipedal robot wi
 ## Project {#project}
 
 **NSF USDA NIFA Assistive Robotic System of Poultry Processing**
-
-## Education {#education}
-
-* **Purdue University**, West Lafayette, IN, USA  
-  Master of Computer Science  
-  Degree expected in May 2027
-
-* **Purdue University**, West Lafayette, IN, USA  
-  Bachelor of Computer Science  
-  Degree expected in Dec 2025

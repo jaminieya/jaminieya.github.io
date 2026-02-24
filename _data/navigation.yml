@@ -5,11 +5,11 @@ main:
   - title: "Updates"
     url: /#updates
 
+  - title: "Education"
+    url: /#education
+
   - title: "Research"
     url: /#research
 
   - title: "Project"
     url: /#project
-
-  - title: "Education"
-    url: /#education
