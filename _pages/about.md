@@ -9,7 +9,7 @@ redirect_from:
   - /cv/
 ---
 
-I am an M.S. student at the Department of Computer Science at Purdue University, advised by Prof. Ahmed H. Qureshi. Previously, I received Bachelor's in Computer Science at Purdue University, where I worked with Prof. Yu She and Prof. Timothy Reese.
+I am an Master's student at the Department of Computer Science at Purdue University, advised by Prof. Ahmed H. Qureshi. Previously, I received Bachelor's in Computer Science at Purdue University, where I worked with Prof. Yu She and Prof. Timothy Reese.
 
 I'm interested in robot learning, especially in the areas of generalizable manipulation policies and robot tool use. Eventually, I want to push the frontier of what AI can accomplish in the physical world.
 
@@ -29,7 +29,7 @@ I'm interested in robot learning, especially in the areas of generalizable manip
   <div>
     <strong>Purdue University</strong>, West Lafayette, IN, USA<br>
     Bachelor of Computer Science<br>
-    08. 2021 - 12.2025
+    08. 2021 - 12. 2025
   </div>
 </div>
 
