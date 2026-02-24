@@ -1,0 +1,48 @@
+/* Custom overrides: Always show all nav items on top (no menu button) */
+
+.greedy-nav {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+
+  & button {
+    display: none !important;
+  }
+
+  & .visible-links {
+    display: flex !important;
+    flex-wrap: wrap;
+    flex: 1;
+    min-width: 0;
+
+    & li {
+      display: inline-block !important;
+      vertical-align: middle;
+    }
+  }
+
+  & .hidden-links {
+    position: static !important;
+    display: flex !important;
+    flex-wrap: wrap;
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+    box-shadow: none !important;
+    background: transparent !important;
+
+    &::before,
+    &::after {
+      display: none !important;
+    }
+
+    & li {
+      display: inline-block !important;
+      border: none !important;
+    }
+
+    &.hidden {
+      display: none !important;
+    }
+  }
+}
